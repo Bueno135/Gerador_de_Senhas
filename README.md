@@ -24,6 +24,7 @@ A senha gerada será exibida no final.
 
 ##Exemplo de Saída
 
+```bash
 Bem-vindo ao gerador de senhas!
 Digite a quantidade de letras da senha desejada: 8
 Digite a quantidade de números da senha desejada: 3
